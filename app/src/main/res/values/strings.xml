@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SendsWithFriends</string>
+    <string name="send_title_hint">Enter a title for the climb.</string>
+    <string name="send_title_label">Title</string>
+    <string name="send_details_label">Details</string>
+    <string name="send_sent_label">Sent</string>
+    <string name="date_picker_title">Date of climb:</string>
+    <string name="new_send">New Climb</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d climbs</string>
+    <string name="default_notification_channel_id">Channel ID</string>
+    <string name="default_notification_channel_name">Channel Name</string>
+</resources>
